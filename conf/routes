@@ -1,0 +1,2 @@
+GET     /rest/v1/accounts       controller.AccountController.getAccounts
+POST    /rest/v1/transfer       controller.TransferController.transferMoney
